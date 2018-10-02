@@ -1,2 +1,2 @@
-# porfolio
-My porfolio with few project I was working on
+# portfolio
+My portfolio with few project I was working on
